@@ -5,4 +5,4 @@
 - :heart_eyes: Sublime-Text, Atom and PyCharm are always in my toolbox :wrench: :hammer:
 - :chart_with_upwards_trend: :art: in using pandas and SQL
 - :sunglasses: pro in using Jupyter Notebooks :notebook:
-- :newspaper: loves documentation in Markdown :heart:
+- :heart: documentation :newspaper: in Markdown 
