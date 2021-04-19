@@ -1,7 +1,7 @@
 ### Hi There 👋
 
 - :telescope: Currently working on Machine Learning and doing it with best practices :man_cook:
-- :microscope: Focusing on to ask the right questions from data and solving them :clipboard:
+- :microscope: Focusing on to ask the right questions from data and solving them 🖊️ :clipboard:
 - :bulb: Able to take an idea from research to production ⛰️ 🚩
 - :computer: loves to code in Python :heart:
 - :heart_eyes: Sublime-Text, Atom, and PyCharm are my favorite tools :wrench: :hammer:
