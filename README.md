@@ -9,6 +9,9 @@
 - :sunglasses: pro in using Jupyter Notebooks :notebook:
 - :heart: documentation :newspaper: in Markdown 
 
+#### Data Science Profile
+* [Kaggle](https://www.kaggle.com/sank3t)
+
 #### Coding Profile
 
 * [HackerRank](https://www.hackerrank.com/sank3t?hr_r=1)
