@@ -1,13 +1,18 @@
-### Hi There 👋
+## Hi There 👋
 
-- :telescope: Currently working on Machine Learning and doing it with best practices :man_cook:
-- :microscope: Focusing on to ask the right questions from data and solving them 🖊️ :clipboard:
-- :bulb: Able to take an idea from research to production ⛰️ 🚩
-- :computer: loves to code in Python :heart:
-- :heart_eyes: Sublime-Text, Atom, and PyCharm are my favorite tools :wrench: :hammer:
-- :chart_with_upwards_trend: :art: in using pandas and SQL
-- :sunglasses: pro in using Jupyter Notebooks :notebook:
-- :heart: documentation :newspaper: in Markdown 
+Thanks for checking out my GitHub profile. I am a Data Science professional having 3 years 10 months of experience.
+
+During my tenure I majorly worked on wind power forecasting, predictive modeling, and customer segmentation.
+
+In my leisure time I used to write code or participate in hackathons.
+
+### What I do and possess?
+
+- Focusing on maths and stats
+- Trying to understand the business and applying data science into it
+- Python3, SQL, pandas, PySpark are my go to languages
+- Loves visualization in seaborn and plotly
+- Delivered production grade codes and models that created the business impact
 
 #### Data Science Profile
 * [Kaggle](https://www.kaggle.com/sank3t)
