@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-Thanks for checking out my GitHub profile. I am a Data Science professional having 3+ years of experience.
+Thanks for checking out my GitHub profile. I am a Data Science professional having 4+ years of experience.
 
 During my tenure I majorly worked on wind power forecasting, predictive modeling, and customer segmentation.
 
